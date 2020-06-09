@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.fx.ide.jdt.core.JAVAFX_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Program Files/Weka-3-8/weka.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Weka-3-8/weka-src.jar"/>
+	<classpathentry kind="lib" path="D:/workEclip/miningInterface/src/charts.jar"/>
+	<classpathentry kind="lib" path="D:/workEclip/miningInterface/fxgraphics2d-1.6.jar"/>
+	<classpathentry kind="lib" path="D:/workEclip/miningInterface/jfreechart-1.5.0.jar"/>
+	<classpathentry kind="lib" path="D:/workEclip/miningInterface/jfreechart-fx-1.0.1.jar"/>
+	<classpathentry kind="lib" path="dbscan.jar"/>
+	<classpathentry kind="lib" path="KNN.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
